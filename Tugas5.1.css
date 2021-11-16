@@ -1,0 +1,29 @@
+.row {
+    width: 900px;
+    height: 600px;
+    margin: auto;
+}
+
+.column {
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+    float: left;
+    margin: 11px;
+}
+
+.yellow {
+    background-color: rgb(228, 127, 96);
+}
+
+.orange {
+    background-color: rgb(148, 216, 121);
+}
+
+.lightblue {
+    background-color: rgb(154, 214, 235);
+}
+
+.blue {
+    background-color: rgb(99, 99, 138);
+}
